@@ -1,17 +1,14 @@
-import {hot} from "react-hot-loader";
-import React from 'react';
-import image from './img/gun.png';
-import './App.css';
-
+import { hot } from "react-hot-loader";
+import React from "react";
+import image from "./img/gun.png";
+import "./App.css";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Homepage from "./pages/Homepage";
 function App() {
   return (
-    <div className="App">
-      <h1 className="App-header">Welcome to my Website! Please hire me!
-         <h2>Robert Stachurski</h2>
-         <img src={image} alt ="gun-image"/>
-      </h1>
-
-    </div>
+    <Router className="App">
+      <Homepage />
+    </Router>
   );
 }
 
