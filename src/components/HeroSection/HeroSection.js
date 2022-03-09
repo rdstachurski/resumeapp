@@ -23,12 +23,10 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Welcome to my Website!</HeroH1>
+        <HeroH1>Looking for Summer Internship 2022!</HeroH1>
         <HeroP>
           My name is Robert Stachurski and I am Computer Science Senior at
-          Temple University. I will be graduation Decemeber 2022 and am actively
-          looking for an Internship for Summer 2022 and a full time position
-          after graduation.
+          Temple University. Experienced in C, Java, JavaScript, React, Python.
         </HeroP>
         <HeroBtnWrapper>
           <Button

@@ -8,9 +8,9 @@ export const homeObj1 = {
   description:
     "3.77 GPA. Full-Stack Developer. Experienced in C, Java, JavaScript, React, Python.",
   description2:
-    "Undergraduate research program: Artifical General Intelligence Summer 2021. Researched data structures, architectures involving buffers, and memory organization of derived logic and tasks of OpenNARS, a Non-Axiomatic Reasoning System used for artificial general intelligence and Java ",
+    "Undergraduate research program: Artifical General Intelligence Summer 2021. Researched data structures, architectures involving buffers, and memory organization of derived logic and tasks of OpenNARS",
   description3:
-    " Teacher Assistant: Data Structure and Algorithm, Information Visualization. Held weekly office hours to help students with homework, labs, and difficult course concepts",
+    " Teacher Assistant: Data Structure and Algorithm, Information Visualization.",
   buttonLabel: "Resume",
   imgStart: false,
   img: require("../../img/Svg1.svg").default,
