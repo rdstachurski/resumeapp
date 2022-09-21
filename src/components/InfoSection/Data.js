@@ -6,11 +6,11 @@ export const homeObj1 = {
   topLine: "Robert Stachurski",
   headLine: " Computer Science Major",
   description:
-    "3.77 GPA. Full-Stack Developer. Experienced in C, Java, JavaScript, React, Python.",
+    "3.82 GPA. Full-Stack Developer. Experienced in C, Java, JavaScript, React, Python, AngularJs.",
   description2:
-    "Undergraduate research program: Artifical General Intelligence Summer 2021. Researched data structures, architectures involving buffers, and memory organization of derived logic and tasks of OpenNARS",
+    "Nationwide Software Development Intern Summer 2022. Completed multiple cards and designed components that reached production. Learned Angular, Typescript, and Nationwide proprietary technologies independently in a short timeframe.",
   description3:
-    " Teacher Assistant: Data Structure and Algorithm, Information Visualization.",
+    "Undergraduate research program: Artifical General Intelligence Summer 2021. Researched data structures, architectures involving buffers, and memory organization of derived logic and tasks of OpenNARS.",
   buttonLabel: "Resume",
   imgStart: false,
   img: require("../../img/Svg1.svg").default,
