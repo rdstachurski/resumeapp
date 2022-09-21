@@ -23,7 +23,7 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Looking for Summer Internship 2022!</HeroH1>
+        <HeroH1>Looking for Full-time Position 2023!</HeroH1>
         <HeroP>
           My name is Robert Stachurski and I am Computer Science Senior at
           Temple University. Experienced in C, Java, JavaScript, React, Python.
